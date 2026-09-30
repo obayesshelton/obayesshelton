@@ -34,6 +34,6 @@ Mostly **Laravel**, **TypeScript** and **Python**. Also Go, React, Node, AWS, Az
 
 I take on fractional CTO work, technical advisory, and help established businesses bring in technology that actually works.
 
-Start with a **Frontier Review** — two weeks, fixed fee. Where modern technology creates real value in your business, what to build first, and what it's worth.
+Start with a **Frontier Review**. Two weeks, fixed fee. Where modern technology creates real value in your business, what to build first, and what it's worth.
 
 [bayes-shelton.co.uk](https://www.bayes-shelton.co.uk) · [LinkedIn](https://www.linkedin.com/in/oliverbayesshelton/) · [me@bayes-shelton.co.uk](mailto:me@bayes-shelton.co.uk)
