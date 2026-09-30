@@ -4,7 +4,7 @@
 
 Fractional CTO, based in London.
 
-Most businesses running on ageing technology don't need a strategy deck. They need someone who knows what actually works right now — and can build it. I spend my time in two places: hands-on with early-stage startups using the newest tools as they land, and with established businesses bringing in the parts that are genuinely ready.
+Most businesses running on ageing technology don't need a strategy deck. They need someone who knows what actually works right now and can build it. I spend my time in two places: hands-on with early-stage startups using the newest tools as they land, and with established businesses bringing in the parts that are genuinely ready.
 
 I'm an angel investor in six of those startups, so I have my own money on whether this stuff works.
 
@@ -15,7 +15,7 @@ I'm an angel investor in six of those startups, so I have my own money on whethe
 - 15+ years building and leading engineering teams
 - Multiple CTO roles, from founder-built prototype to acquired platform
 - Led an ING spin-out, **Loan Optics**, through to international acquisition
-- Delivered ISO27001 and Cyber Essentials Plus — the difference between selling to banks and not
+- Delivered ISO27001 and Cyber Essentials Plus, the difference between selling to banks and not
 - Angel investor in six startups across fintech, fashion, marketplaces and B2B SaaS
 
 ### Currently building with
